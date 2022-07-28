@@ -2,11 +2,11 @@
 
 # FERRAMENTAS
 
--pyautogui
--pyperclip
--subprocess
--pandas
+- pyautogui
+- pyperclip
+- subprocess
+- pandas
 
-#INSTALAÇÕES
--Fakturama
+# INSTALAÇÕES
+- Fakturama
  
